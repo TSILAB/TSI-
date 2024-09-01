@@ -1,0 +1,36 @@
+一、交通领域
+智能交通（与人工智能、计算机、自动化控制结合紧密）：
+Transportation Research Part C
+IEEE Transactions on Intelligent Transportation Systems
+IEEE Transactions on Intelligent Vehicles
+Computer-Aided Civil and Infrastructure Engineering
+
+交通安全（与统计学、计量经济学等结合紧密）：
+Accident Analysis & Prevention
+Analytic Methods in Accident Research
+Safety Science
+Journal of Safety Research
+
+交通方法论（交通领域的数学模型与方法）：
+Transportation Research Part B
+Transport Science
+
+其他：
+Transportation Research Part A（交通政策）
+Transportation Research Part D（交通环境）
+Transportation Research Part E（交通运筹优化）
+Transportation Research Part F（交通心理学）
+
+二、计算机领域
+主要关注PaperWithCode即可（百度直接搜），如果要跟紧最前沿，可关注人工智能顶会
+AAAI、ICML、NIPS、CVPR、ICCV、KDD等
+https://zhuanlan.zhihu.com/p/642963180
+
+三、进阶领域（NSC子刊系列）
+主要关注与交通相关的文章或可能与交通相关的文章
+Nature Sustainability（可持续发展，例如交通碳排放等）
+Nature Communications（综合期刊）
+Cell Patterns（AI与生物、化学、医学等科学领域的结合）
+Nature Neuroscience（认知计算神经科学）
+
+
